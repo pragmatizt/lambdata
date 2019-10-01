@@ -1,4 +1,3 @@
-username@users.noreply.github.com
 """
 lambdata - a collection of data science helper functions for lambda school
 """
