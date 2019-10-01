@@ -14,6 +14,6 @@ def ira_split_version(X, y):
     return (X_train, X_val, y_train, y_val)
 
 def find_nulls(df):
-    f_nulls = df.isnull().sum()
+    f_nulls = df.isnull().sum().sort_values(ascending=True)
 
     return f_nulls
