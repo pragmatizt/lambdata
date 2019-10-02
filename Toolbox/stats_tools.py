@@ -7,7 +7,7 @@ import numpy as np
 class Stats():
     # creating an empty list
 
-our_list = []   # setting our list as the attribute?
+    our_list = []   # setting our list as the attribute?
 
     def __init__(self, mean, median, mode, variance, std_dev, coeff)
 
