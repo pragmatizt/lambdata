@@ -9,7 +9,7 @@ class Stats():
 
     our_list = []   # setting our list as the attribute?
 
-    def __init__(self, mean, median, mode, variance, std_dev, coeff)
+    def __init__(self, mean, median, mode, variance, std_dev, coeff):
 
       self.mean = sum(list) / len(list)
       self.median = sum(list) / 2
